@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Invoice</string>
+    <string name="invoices">Invoices</string>
+    <string name="invoice">Invoice #%1$s</string>
+    <string name="items">%1$s items</string>
+    <string name="no_invoices_found">No invoices found</string>
 </resources>
