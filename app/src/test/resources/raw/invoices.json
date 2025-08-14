@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "f143404a-3e6c-4a61-98d0-5e9c3fe81d80",
+      "date": "2022-10-01T10:22:32",
+      "items": [
+        {
+          "id": "c100f400-0da3-4161-8f16-dba7d0b4356a",
+          "name": "Service #1",
+          "quantity": 1,
+          "priceinCents": 100
+        },
+        {
+          "id": "8149d691-c303-48e2-a8b3-8976d7e8489a",
+          "name": "Service #2",
+          "quantity": 2,
+          "priceinCents": 750
+        },
+        {
+          "id": "202d128a-9bde-4d5f-9a30-2e296091c0a5",
+          "name": "Service #3",
+          "quantity": 1,
+          "priceinCents": 500
+        }
+      ]
+    },
+    {
+      "id": "6eabe737-3afa-4989-b667-2e63ac3af609",
+      "date": "2022-10-05T13:00:10",
+      "items": [
+        {
+          "id": "4498a7ee-8155-419c-86e2-714c3a6ef841",
+          "name": "Service #2",
+          "quantity": 6,
+          "priceinCents": 750
+        }
+      ]
+    },
+    {
+      "id": "a7568f57-cf88-4518-8d6a-4f476e3f324d",
+      "date": "2022-10-01T10:22:32",
+      "items": [
+        {
+          "id": "b7936407-7d47-4ec5-aaa1-9a5baef189ca",
+          "name": "Service #1",
+          "quantity": 3,
+          "priceinCents": 100
+        },
+        {
+          "id": "8390deba-03b4-459a-9a21-b2620cd3459b",
+          "name": "Service #3",
+          "quantity": 7,
+          "priceinCents": 500
+        }
+      ]
+    }
+  ]
+}
