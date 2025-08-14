@@ -1,13 +1,13 @@
 package com.xero.invoice.features.invoicecalculator.data.repository
 
+import com.xero.invoice.core.Result
+import com.xero.invoice.core.exception.NoDataException
 import com.xero.invoice.features.invoicecalculator.data.models.InvoiceResponse
 import com.xero.invoice.features.invoicecalculator.data.source.InvoiceRemoteDataSource
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import java.io.IOException
 import javax.inject.Inject
-import com.xero.invoice.core.Result
-import com.xero.invoice.core.exception.NoDataException
 
 
 class InvoiceRepositoryImpl @Inject constructor(
